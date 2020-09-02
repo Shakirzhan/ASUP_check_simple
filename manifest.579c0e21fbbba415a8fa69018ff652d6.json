@@ -1,0 +1,42 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.93ba3857ee12f9d6caac2b6530c966b2.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.f2dcc09f3aec0aa1a10b3943128c537e.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_256x256.dbf88c0bbe57ac3359dbc2a2ee0d224d.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.e86804da46d26e1fbb45d8a48d87e30a.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.85a40fb1c8cffc700e3e44cc97b7578b.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.8d82d8c63258498d79ee58a277413818.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "АСУП",
+  "short_name": "АСУП",
+  "orientation": "portrait",
+  "display": "fullscreen",
+  "start_url": "/",
+  "theme_color": "#4A90E2",
+  "background_color": "#F7F8F9",
+  "gcm_sender_id": "103953800507"
+}
